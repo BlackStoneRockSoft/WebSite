@@ -1,5 +1,5 @@
 /**
- * Amber matrix background — ported from Yeni klasör (8) amber-cascades.tsx
+ * Amber matrix background 
  */
 function initAmberCascades(canvas) {
   const ctx = canvas.getContext("2d");
